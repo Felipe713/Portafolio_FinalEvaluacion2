@@ -1,0 +1,40 @@
+body {
+    background-image: url("../img/wall_contacto.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+.hero {
+    text-align: center;
+    margin: 8%;
+    padding: 20px;
+}
+
+
+.poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 4rem;
+}
+
+.parrafo {
+    text-align: justify;
+    font-size: 1rem; 
+    line-height: 1.6; 
+    margin: 50px 0; 
+}
+
+
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+
+
+

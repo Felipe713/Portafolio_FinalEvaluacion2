@@ -1,0 +1,21 @@
+body {
+    background-image: url("../img/wall_viña.jpg"); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+.formulario {
+    width: 50%;
+    padding-left: 50px;
+}
+
+.subtitulo {
+    margin: 5% 0;
+}
+
+.form-label {
+    font-size: x-large;
+}
+
